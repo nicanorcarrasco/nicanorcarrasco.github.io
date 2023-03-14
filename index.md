@@ -7,7 +7,7 @@ description: I am Nicanor Carrasco-Vargas
 
 # About me
 
-I am a phd student PUC under the advise of Cristóbal Rojas and Sebastián Barbieri. In this moment I am visiting Toulouse, France, under the supervision of Mathieu Sablik.  
+I am a phd student [PUC](mat.uc.cl) under the advise of [Cristóbal Rojas](https://www.mat.uc.cl/personas/perfil/cristobal.rojas) and [Sebastián Barbieri](http://www.sbarbieri.usach.cl/). In this moment I am visiting Toulouse, France, under the supervision of [Mathieu Sablik](https://www.math.univ-toulouse.fr/~msablik/).  
 
 # Contact
 You can find me at njcarrasco at mat dot uc dot cl.

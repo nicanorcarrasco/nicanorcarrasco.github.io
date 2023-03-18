@@ -1,7 +1,7 @@
 ---
 
 title: Welcome to my personal page,
-description: I am Nicanor Carrasco-Vargas [cv](/cv).
+description: I am Nicanor Carrasco-Vargas [cv](/cv.md).
 
 ---
 

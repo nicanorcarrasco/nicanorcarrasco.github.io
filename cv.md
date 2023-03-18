@@ -2,4 +2,4 @@
 title: cv
 permalink: cv
 ---
-download cv
+You can download my cv by clicking here.

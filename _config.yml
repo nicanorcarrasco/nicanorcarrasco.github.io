@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: no
-description: [welcome](/) [cv](/cv )
+description: [welcome][1] [cv][2]
+ [1]: /
+ [2]: /cv

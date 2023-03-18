@@ -1,5 +1,5 @@
 ---
-
+layout: default
 title: Welcome,
 description: this is Nicanor Carrasco-Vargas webpage.
 show_downloads: true

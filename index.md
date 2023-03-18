@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Welcome,
-description: this is Nicanor Carrasco-Vargas webpage.
+description: Welcome, this is Nicanor Carrasco-Vargas webpage.
 permalink: /
 ---
 

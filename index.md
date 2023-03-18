@@ -1,7 +1,6 @@
 ---
 
 title: Welcome to my personal page.
-subtitle: I am Nicanor
 permalink: /
 
 ---

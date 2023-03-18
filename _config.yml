@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
 title: no
-description: a  [Welcome]{%link index.md%} - [cv]{%link cv.md%}
+description: a  [Welcome]({% link index.md %}) - [cv]({% link cv.md %})

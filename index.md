@@ -2,7 +2,6 @@
 layout: page
 title: Welcome,
 description: this is Nicanor Carrasco-Vargas webpage.
-
 ---
 
 # About me

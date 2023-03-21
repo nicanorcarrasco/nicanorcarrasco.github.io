@@ -9,5 +9,6 @@ I am a phd student at [PUC](mat.uc.cl) under the advise of [Cristóbal Rojas](ht
 
 # Contact ☎
 You can find me at njcarrasco ♡ mat.uc.cl
-#Links
+
+# Links
 [orcid](https://orcid.org/0009-0002-7381-4382)

@@ -17,7 +17,7 @@ As an application we show that on any finitely generated infinite group with dec
 </p>  
 </details>
 
-[pdf](files/Paper_1.pdf) [Arxiv](https://arxiv.org/abs/2303.14820)
+[Pdf](files/Paper_1.pdf) [Arxiv](https://arxiv.org/abs/2303.14820)
 
 
 

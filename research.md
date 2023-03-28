@@ -3,7 +3,8 @@ layout: page
 title: Research
 permalink: /research/
 ---
-The geometric subgroup membership problem
+
+__The geometric subgroup membership problem__
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -14,4 +15,4 @@ As an application we show that on any finitely generated infinite group with dec
   
 </details>
 
-[pdf](files/Paper 1.pdf) [Arxiv](https://arxiv.org/abs/2303.14820)
+[pdf](files/Paper_1.pdf) [Arxiv](https://arxiv.org/abs/2303.14820)

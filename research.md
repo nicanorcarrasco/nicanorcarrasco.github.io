@@ -14,4 +14,4 @@ As an application we show that on any finitely generated infinite group with dec
   
 </details>
 
-[pdf](paper 1.pdf) [Arxiv](https://arxiv.org/abs/2303.14820)
+[pdf](/files/paper 1.pdf) [Arxiv](https://arxiv.org/abs/2303.14820)

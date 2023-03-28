@@ -6,7 +6,7 @@ permalink: /research/
 
 __The geometric subgroup membership problem__
 
-<details>
+<details open onclick="return false">
 <summary><b> Abstract </b></summary>
 <p>
 We show that every infinite graph which is locally finite and connected admits a translation-like action by $\mathbb{Z}$ such that the distance between a vertex $v$ and $v∗1$ is uniformly bounded by 3. This action can be taken to be transitive if and only if the graph has one or two ends. This strengthens a theorem by Brandon Seward.
@@ -18,4 +18,7 @@ As an application we show that on any finitely generated infinite group with dec
 </details>
 
 [pdf](files/Paper_1.pdf) [Arxiv](https://arxiv.org/abs/2303.14820)
+
+
+
 

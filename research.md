@@ -14,7 +14,7 @@ We show that every infinite graph which is locally finite and connected admits a
 Our proof is constructive, and thus it can be made computable. More precisely, we show that a finitely generated group with decidable word problem admits a translation-like action by $\mathbb{Z}$ which is computable, and satisfies an extra condition which we call decidable orbit membership problem.
 
 As an application we show that on any finitely generated infinite group with decidable word problem, effective subshifts attain all effectively closed  Medvedev degrees. This extends a classification proved by Joseph Miller for $\mathbb{Z}^{d}, d≥1$. 
-  </p>  
+</p>  
 </details>
 
 [pdf](files/Paper_1.pdf) [Arxiv](https://arxiv.org/abs/2303.14820)

@@ -4,7 +4,16 @@ title: Research
 permalink: /research/
 ---
 
-__The geometric subgroup membership problem__
+__The characterization of infinite Eulerian graphs, a short and computable characterization__, *preprint*
+
+<details><summary>Abstract 👁</summary>
+  
+In this paper we present a short proof of a theorem by Erdős, Grünwald and Weiszfeld on the characterization of infinite graphs which admit infinite Eulerian trails. In addition, we extend this result with a characterization of which finite trails can be extended to infinite Eulerian trails. Our proof is computable and yields an effective version of this theorem. This exhibits stark contrast with other classical results in the theory of infinite graphs which are not effective.
+</details>
+
+[Pdf](files/Paper_2.pdf) 
+
+__The geometric subgroup membership problem__, *preprint*
 
 <details><summary>Abstract 👁</summary>
 

@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-__The characterization of infinite Eulerian graphs, a short and computable characterization__, *preprint*
+__The characterization of infinite Eulerian graphs, a short and computable proof__, *preprint*
 
 <details><summary>Abstract 👁</summary>
   

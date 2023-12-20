@@ -7,6 +7,9 @@ Un invariante para subshifts de naturaleza recursiva. [Encuentro somachi 2023](h
 
 [Abstract](files/talk_4_abstract.pdf) [Slides](files/talk_4.pdf)
 
+Un invariante para subshifts de naturaleza recursiva. [Seminario de Sistemas Dinámicos de Santiago](http://www.dynamicalsystems.cl/?page_id=286),  Santiago, Chile, 25-09-2023. 
+
+<details><summary> Abstract 👁 </summary> En 1974 Hanf y Myers exhibiron un subshift de tipo finito en $\mathbb{Z}^2$ cuyas configuraciones son todas incalculables en el sentido de la teoria de la recursión. En esta charla discutiremos cómo este fenómeno se captura con un invariante dinámico para subshifts, el invariante m. Este invariante comparte algunas propiedades con la entropía topológica como no aumentar por factores. También se relaciona con otras propiedades de origen dinámico y topológico tales como la aperiodicidad o la existencia puntos aislados en el espacio de todos los subshifts. </details>
 
 Medvedev degrees and subshifts. [16th International Conference on Computability, Complexity and Randomness](http://cca-net.de/ccr2023/), Kochel, Germany, July 10-14, 2023.  
 

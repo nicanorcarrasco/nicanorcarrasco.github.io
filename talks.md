@@ -3,6 +3,11 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+Un invariante para subshifts de naturaleza recursiva. [Encuentro somachi 2023](https://sites.google.com/uchile.cl/somachi2023/actividades-cient%C3%ADficas/sesiones-tem%C3%A1ticas), Santiago, Chile, 20-12-2023. 
+
+[Abstract](files/talk_4_abstract.pdf) [Slides](files/talk_4.pdf)
+
+
 Medvedev degrees and subshifts. [16th International Conference on Computability, Complexity and Randomness](http://cca-net.de/ccr2023/), Kochel, Germany, July 10-14, 2023.  
 
 

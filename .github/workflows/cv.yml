@@ -3,7 +3,7 @@
   on: [push]
   with:
     webPageURL: https://nicanorcarrascovargas.github.io/
-    outputFile: ./files/cv.pdf
+    outputFile: cv.pdf
     usePuppeteer: true
     useScreen: true
     pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'

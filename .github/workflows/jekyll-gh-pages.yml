@@ -37,7 +37,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
     # pdf
-    - name: html to pdf
+    pdf:
+      name: html to pdf
       uses: misaelnieto/web_to_pdf_action@v0.3.1
       on: [push]
       with:

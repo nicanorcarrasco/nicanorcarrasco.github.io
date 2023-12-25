@@ -37,7 +37,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
       - name: html to pdf
-        uses: misaelnieto/web_to_pdf_action@v0.3.1push
+        uses: misaelnieto/web_to_pdf_action@master
         with:
           webPageURL: https://www.google.com/
           outputFile: ./files/cv.pdf

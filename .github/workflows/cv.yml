@@ -1,5 +1,6 @@
 - name: html to pdf
   uses: misaelnieto/web_to_pdf_action@master
+  on: [push]
   with:
     webPageURL: https://nicanorcarrascovargas.github.io/
     outputFile: /files/cv.pdf

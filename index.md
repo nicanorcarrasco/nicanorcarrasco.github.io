@@ -9,7 +9,8 @@ I am a phd student at [PUC](mat.uc.cl) under the advise of [Cristóbal Rojas](ht
 
 # Contact ☎
 📧 njcarrasco # mat.uc.cl
-📍 Facultad de Matemáticas, [Pontificia Universidad Católica de Chile](mat.uc.cl), office M22.
+
+📍 Facultad de Matemáticas, Pontificia Universidad Católica de Chile, office M22.
 
 
 # Links

@@ -36,14 +36,6 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-      - name: html to pdf
-        uses: misaelnieto/web_to_pdf_action@master
-        with:
-          webPageURL: https://www.google.com/
-          outputFile: ./files/cv.pdf
-          usePuppeteer: true
-          useScreen: true
-          pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
   # Deployment job
   deploy:
     environment:
@@ -55,4 +47,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-  
+      - name: html to pdf
+        uses: misaelnieto/web_to_pdf_action@master
+        with:
+          webPageURL: https://www.google.com/
+          outputFile: ./files/cv.pdf
+          usePuppeteer: true
+          useScreen: true
+          pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'

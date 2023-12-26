@@ -40,7 +40,6 @@ jobs:
         with:
           input_files: '[["index.md","research.md"]]'
           output_files: '["out1.html"]'
-          builtin_stylesheet: 'style.css'
           packages: 'pymdown-extensions'
           extensions: '["pymdownx.extra"]'
   # Deployment job

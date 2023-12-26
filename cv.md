@@ -51,3 +51,6 @@ As an application we show that on any finitely generated infinite group with dec
 <details><summary> Medvedev degrees and subshifts. 16th International Conference on Computability, Complexity and Randomness, Kochel, Germany, July 10-14, 2023. </summary></details>
 
 <details><summary>  Medvedev degrees of effective subshifts on groups. Journées annuelles SDA2, Toulouse, France, 31-03-2023 </summary></details>
+
+
+@@include[index.md](index.md)

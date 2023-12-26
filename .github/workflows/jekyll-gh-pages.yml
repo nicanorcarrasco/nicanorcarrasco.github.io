@@ -36,15 +36,13 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-      - name: html to pdf
-        uses: misaelnieto/web_to_pdf_action@master
+      - uses: ZacJW/markdown-html-action@1.1.0
         with:
-          webPageURL: https://www.google.com/
-          outputFile: ./files/cv.pdf
-          usePuppeteer: true
-          useScreen: true
-          pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
-        
+          input_files: '[["index.md"], ["research.md"]]'
+          output_files: '["out1.html"]'
+          builtin_stylesheet: 'style.css'
+          packages: 'pymdown-extensions'
+          extensions: '["pymdownx.extra"]'
   # Deployment job
   deploy:
     environment:

@@ -42,6 +42,11 @@ jobs:
           output_files: '["out1.html"]'
           packages: 'pymdown-extensions'
           extensions: '["pymdownx.extra"]'
+      - uses: GuillaumeFalourd/command-output-file-action@v1.1
+        with:
+          command_line: ls -lha
+          output_file_name: output.txt
+          display_file_content: YES # this is also the default value if not informed
   # Deployment job
   deploy:
     environment:
